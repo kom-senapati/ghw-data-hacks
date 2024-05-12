@@ -1,0 +1,10 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+darkdetect==0.8.0
+FormEncode==2.1.0
+idna==3.7
+packaging==24.0
+PyDispatcher==2.0.7
+requests==2.31.0
+SQLObject==3.11.0
+urllib3==2.2.1
